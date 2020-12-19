@@ -22,6 +22,10 @@ Mainly three components:
 
 The repository is meant to showcase how we can configure Hangfire to perform background recurring jobs in Console application. The console application is built with topshelf and running on self hosted port. The hangfire also has its own dasboard where you can see connected servers, recurring jobs, succeeded & failed jobs etc.
 
+![image](https://user-images.githubusercontent.com/70849493/102690001-89071580-4228-11eb-918a-d6f9da0c9fe1.png)
 
 
+![image](https://user-images.githubusercontent.com/70849493/102690038-b94eb400-4228-11eb-9e0d-189b22a2e82c.png)
 
+
+![image](https://user-images.githubusercontent.com/70849493/102690052-cec3de00-4228-11eb-8825-230e6b44df8a.png)
